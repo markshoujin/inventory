@@ -1,6 +1,6 @@
 
 export default {
-  basePath: '/',
+  basePath: '/markshoujin',
   supportedLocales: {
   "en-US": ""
 },
